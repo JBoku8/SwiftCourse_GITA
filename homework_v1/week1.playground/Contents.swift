@@ -51,7 +51,7 @@ tvSeries.forEach { print($0) }
 
 
 // Dictionary implementation
-var grades = ["Alice": 85, "Bob": 90, "Charlie": 78]
+var grades = ["James": 85, "John": 90, "SuperMan": 78]
 
 // 1. Print all students and grades
 print("All students and grades:")
@@ -74,9 +74,9 @@ if let grade = grades[studentName] {
 
 // Array and Tuple implementation
 var gradesArray: [(name: String, grade: Int)] = [
-    (name: "Alice", grade: 85),
-    (name: "Bob", grade: 90),
-    (name: "Charlie", grade: 78)
+    (name: "SpiderMan", grade: 85),
+    (name: "BatMan", grade: 90),
+    (name: "SuperMan", grade: 78)
 ]
 
 print("\nUsing Array of Tuples:")
