@@ -26,9 +26,9 @@ repeat {
 
 
 
-var tvSeries = ["Breaking Bad", "Game of Thrones", "Friends", "The Office",
-                "Stranger Things", "The Crown", "Black Mirror", "The Mandalorian",
-                "Westworld", "The Witcher"]
+var tvSeries = ["The Godfather", "Inception", "Pulp Fiction", "The Matrix",
+                "Schindler's List", "Forrest Gump", "The Dark Knight", "Goodfellas",
+                "Fight Club", "The Shawshank Redemption"]
 
 for (index, series) in tvSeries.enumerated() {
     if index % 3 == 0 {
