@@ -2,3 +2,12 @@
 *.xcworkspace/
 DerivedData/
 Build/
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+
+## Playground
+playground.xcworkspace/
+
+.DS_Store
